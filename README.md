@@ -9,6 +9,7 @@ App.jsx などのコンポーネントの拡張子は jsx にする。
 ### VS Code に ESLint の拡張機能の追加
 
 Vscode で Eslint を使えるように拡張機能をインストールする。
+ググったらすぐにでます。
 
 ### プロジェクトをクローン
 
@@ -27,7 +28,7 @@ yarn add
 Vscode の設定を変更する。  
 セーブ時にフォーマットされる。
 
-```json:setting.json
+```bash
 #setting.json
  {
    "javascript.format.enable": false,
