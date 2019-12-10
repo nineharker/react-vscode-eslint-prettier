@@ -18,7 +18,7 @@ Vscode で Eslint を使えるように拡張機能をインストールする�
 npm -g install create-react-app
 
 # clone repo
-git clone
+git clone https://github.com/nineharker/react-vscode-eslint-prettier.git
 
 cd react-vscode-eslint-prettier
 
