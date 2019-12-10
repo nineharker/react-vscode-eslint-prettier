@@ -22,7 +22,7 @@ git clone https://github.com/nineharker/react-vscode-eslint-prettier.git
 
 cd react-vscode-eslint-prettier
 
-yarn add
+yarn install
 ```
 
 Vscode の設定を変更する。  
@@ -34,6 +34,12 @@ Vscode の設定を変更する。
    "javascript.format.enable": false,
    "eslint.autoFixOnSave": true
  }
+```
+
+## ローカルサーバー起動
+
+```bash
+yarn start
 ```
 
 ## eslint、prettier の設定変更
